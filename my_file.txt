@@ -3,3 +3,4 @@ another line of text
 this is a line with feature x
 this is the one more line
 again me with one more line of text
+this is a line with feature x
